@@ -6,4 +6,4 @@ The dataset is a set of questions (a.k.a) query followed by a tab space and the 
 
 The chatbot is run running the AI_PHASE4.ipynb file in a jupyter notebook or in Google colab.
 
-Follow the AI_PHASE5.docx file for futher information.# Kutraleeswaran_NM
+Follow the AI_PHASE5.docx file for futher information.
